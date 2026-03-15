@@ -1,0 +1,7 @@
+2,3 = 5
+0,0 = 0
+-5,-10 = -15
+"2",3 = error throw
+undifined, -3 = error throw
+null, 1 = error throw
+Number.MAX_SAFE_INTEGER, 1 = OK
